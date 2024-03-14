@@ -128,7 +128,7 @@ function setup()
 
     avoid = Set {
       'area',
-      -- 'toll',    -- uncomment this to avoid tolls
+      'toll',    -- uncomment this to avoid tolls
       'reversible',
       'impassable',
       'hov_lanes',
